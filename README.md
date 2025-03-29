@@ -16,4 +16,4 @@ Este projeto é um site simples desenvolvido para treino, utilizando **HTML** e 
 
 ## Como Acessar
 
-Você pode visualizar o site acessando [aqui](https://github.com/matheusfranca10/finans).
+Você pode visualizar o site acessando [aqui](https://matheusfranca10.github.io/finans).
