@@ -1,5 +1,3 @@
-# Finans
-
 ## Sobre o Projeto
 
 Este projeto é um site simples desenvolvido para treino, utilizando **HTML** e **CSS**. O objetivo é praticar a criação de páginas web com uma estrutura básica e estilização.
